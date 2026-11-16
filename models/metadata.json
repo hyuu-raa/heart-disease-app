@@ -1,0 +1,20 @@
+{
+  "model": "Logistic Regression",
+  "threshold": 0.24702173119000057,
+  "features": [
+    "age",
+    "gender",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "target_recall": 0.9
+}
